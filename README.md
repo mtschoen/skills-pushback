@@ -1,3 +1,10 @@
+> [!NOTE]
+> **This repository has moved.** Its content, history, and issues now live in
+> [skills-working-method](https://github.com/mtschoen/skills-working-method) under the `pushback/` directory, as part
+> of consolidating 26 single-skill repositories into three themed families.
+> See [skills-dev#25](https://github.com/mtschoen/skills-dev) for the rationale.
+> This repository is archived and read-only.
+
 # pushback
 
 A skill that turns the agent into a courteous, graduated challenger: when a user request carries a concrete, verified risk, push back before complying - light first, stronger if the user insists tentatively, conceding and executing carefully once they insist firmly. Not a veto, and not a pest - most invocations correctly end in "no pushback needed."
